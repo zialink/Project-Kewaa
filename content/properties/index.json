@@ -1,0 +1,175 @@
+
+
+[
+  {
+    "id": "1410474",
+    "type": "Residential",
+    "title": "7 Bedroom Duplex with Pent House",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged",
+    "coverImage": "/images/pexels-binyamin-mellish-106399.jpg",
+    "slug": "7-bedroom-duplex-with-pent-house",
+    "wsl": [
+      "7 Bedroom Duplex",
+      "Very affordable price",
+      "Get a tokinized proof of ownership"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "1331625",
+    "type": "Commercial",
+    "title": "10 Office Suites",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged",
+    "coverImage": "/images/pexels-expect-best-323780.jpg",
+    "slug": "10-office-suites",
+    "wsl": [
+      "10 Office Suites",
+      "Very affordable price",
+      "Get a tokinized proof of ownership"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "1112431",
+    "type": "Industrial",
+    "title": "5000sqm of Industrial Space",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged",
+    "coverImage": "/images/pexels-pixabay-221047.jpg",
+    "slug": "5000sqm-of-industrial-space",
+    "wsl": [
+      "5000sqm of Industrial Space",
+      "Very affordable price",
+      "Get a tokinized proof of ownership"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "985237",
+    "type": "Raw Land",
+    "title": "10 Hectares of Land",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "coverImage": "/images/pexels-tom-fisk-2789098.jpg",
+    "slug": "10-hectares-of-land",
+    "wsl": [
+      "10 Hectares of Land",
+      "Very affordable price",
+      "Get a tokinized proof of ownership"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "925927",
+    "type": "Residential",
+    "title": "5 Bedroom Villa Duplex",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "coverImage": "/images/pexels-pixabay-164558.jpg",
+    "slug": "5-bedroom-villa-duplex",
+    "wsl": [
+      "5 Bedroom Villa Duplex",
+      "Very affordable price",
+      "Get a tokinized proof of ownership"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "896464",
+    "type": "Residential",
+    "title": "3 Bedroom Bungalow with Lake View",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "coverImage": "/images/pexels-alex-staudinger-1732414.jpg",
+    "slug": "3-rooms-bungalow-with-lake-view",
+    "wsl": [
+      "3 Bedroom Bungalow",
+      "Lake View",
+      "Very affordable price",
+      "Get a tokinized proof of ownership"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "",
+    "type": "Raw Land",
+    "title": "250 Acres of Land",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "coverImage": "/images/pexels-pixabay-164250.jpg",
+    "slug": "250-acres-of-land",
+    "wsl": [
+      "250 Acres of Land",
+      "Very affordable price",
+      "Get a tokinized proof of ownership"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "847859",
+    "type": "Residential",
+    "title": "4 Bedroom Bungalow with Pent House",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "coverImage": "/images/pexels-binyamin-mellish-1396122.jpg",
+    "slug": "4-bedroom-bungalow-with-pent-house",
+    "wsl": [
+      "4 Bedroom Bungalow",
+      "Pent House",
+      "Very affordable price",
+      "Get a tokinized proof of ownership"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "846120",
+    "type": "Industrial",
+    "title": "5000sqm of Industrial Space",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "coverImage": "/images/pexels-pixabay-236705.jpg",
+    "slug": "5000sqm-of-industrial-space",
+    "wsl": [
+      "5000sqm of Industrial Space",
+      "Very affordable price",
+      "Get a tokinized proof of ownership"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "848148",
+    "type": "Commercial",
+    "title": "1000 Office Suites (Sky Scrapper)",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "coverImage": "/images/pexels-pixabay-273209.jpg",
+    "slug": "1000-office-suites",
+    "wsl": [
+      "1000 Office Suites",
+      "Sky scrapper",
+      "Very affordable price",
+      "Get a tokinized proof of ownership"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "1410474",
+    "type": "Residential",
+    "title": "5 Bedroom Villa Duplex",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged",
+    "coverImage": "/images/pexels-pixabay-164522.jpg",
+    "slug": "5-bedroom-villa-duplex",
+    "wsl": [
+      "5 Bedroom Duplex",
+      "Very affordable price",
+      "Get a tokinized proof of ownership"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "846120",
+    "type": "Industrial",
+    "title": "7000sqm of Industrial Warehouse",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "coverImage": "/images/pexels-pixabay-269077.jpg",
+    "slug": "7000sqm-of-industrial-warehouse",
+    "wsl": [
+      "7000sqm of Industrial Warehouse",
+      "Very affordable price",
+      "Get a tokinized proof of ownership"
+    ],
+    "createdAt": ""
+  }
+]
