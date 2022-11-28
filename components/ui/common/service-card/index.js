@@ -5,13 +5,13 @@ export const ServiceCard = () => {
   return (
     <div className="flex justify-center mt-10 gap-24">
       <div className="border-4 bg-gray-800 rounded-lg border-gray-800 shadow-lg ">
-        <div>
+        <div className="hover:scale-50 transition-all">
           <Image
             src="/images/pay-house.jpg"
             alt="service-card"
             height="200px"
             width="400px"
-            className="rounded-lg hover:scale-50"
+            className="rounded-lg animate-pulse hover:scale-5"
           />
         </div>
         <div className="pl-2">
@@ -28,13 +28,13 @@ export const ServiceCard = () => {
         </div>
       </div>
       <div  className="border-4 bg-gray-800 rounded-lg border-gray-800 shadow-lg">
-        <div>
+        <div className="hover:scale-50 transition-all">
           <Image
             src="/images/house_puzzle2.jpeg"
             alt="service-card"
             height="200px"
             width="400px"
-            className="rounded-lg hover:scale-50"
+            className="rounded-lg animate-pulse"
           />
         </div>
         <div className="pl-2">
