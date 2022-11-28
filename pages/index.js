@@ -13,7 +13,7 @@ export default function Home({ properties }) {
       <div className="bg-indigo-600 h-full w-screen">
         <LandingNav />
         <div className="w-full h-16 bg-indigo-700 flex">
-        <div className="pt-36 translate-y-[500px] translate-x-36 animate-spin">
+        <div className="pt-36 translate-y-[500px] translate-x-36 animate-spin fixed">
         <Image
         src="/images/pexels-pixabay-269077.jpg"
         height="100"
@@ -21,7 +21,7 @@ export default function Home({ properties }) {
         className=""
         />
       </div>
-      <div className=" translate-y-[650px] ml-[1300px] -translate-x-36 animate-spin">
+      <div className=" translate-y-[650px] ml-[1400px] -translate-x-36 animate-spin fixed">
         <Image
         src="/images/pexels-expect-best-323776.jpg"
         height="100"
@@ -94,7 +94,7 @@ export default function Home({ properties }) {
           <p className="pt-24 text-center text-3xl font-serif text-white">
             What problem are we solving?
           </p>
-          <p className="text-center pt-3 px-48 text-xl font-semibold">
+          <p className="text-center pt-3 px-48 text-xl font-semibold z-10">
             Lorem Ipsum is simply dummy text of the printing and typesetting
             industry. Lorem Ipsum has been the industry's standard dummy text
             ever since the 1500s, when an unknown printer took a galley of type
