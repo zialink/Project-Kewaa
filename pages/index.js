@@ -1,6 +1,4 @@
-import { Hero, Breadcrumbs } from "@components/ui/common";
-import { PropertyList, PropertyCard } from "@components/ui/property";
-import { BaseLayout } from "@components/ui/layout";
+
 import { LandingNav } from "@components/ui/common/landingNavbar";
 import Image from "next/image";
 import { ServiceCard } from "@components/ui/common/service-card";
