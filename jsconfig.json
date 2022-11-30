@@ -6,7 +6,9 @@
       "@components/*": ["components/*"],
       "@styles/*": ["styles/*"],
       "@content/*": ["content/*"],
-      "@images/*":["public/images"]
+      "@images/*":["public/images"],
+     // "@assests/*": ["public"]
+
     }
   }
 }

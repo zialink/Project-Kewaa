@@ -11,6 +11,10 @@ module.exports = {
       maxWidth: {
         "8xl": "1920px",
       },
+      animation: {
+       spin: "spin 5s linear infinite",
+       
+      },
       opacity: ["disabled"],
       cursor: ["disabled"],
     },
