@@ -12,6 +12,7 @@ const NETWORKS = {
   56: "Binance Smart Chain",
   5777: "Ganache",
   1337: "Localhost",
+  80001: "Mumbai Testnet",
 };
 
 const targetChainId = process.env.NEXT_PUBLIC_TARGET_CHAIN_ID;
