@@ -18,7 +18,7 @@ export default function Marketplace({ properties }) {
     <>
       <div>
         <WalletBar address={account.data} network={network} />
-        <Breadcrumbs />
+        {/* <Breadcrumbs /> */}
         <EthRates />
       </div>
       <PropertyList properties={properties}>
