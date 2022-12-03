@@ -13,22 +13,24 @@ export default function Home({ properties }) {
       <div className="bg-indigo-600 h-full w-screen">
         <LandingNav />
         <div className="w-full h-16 bg-indigo-700 flex">
-        <div className="pt-36 translate-y-[500px] translate-x-36 animate-spin fixed">
-        <Image
-        src="/images/pexels-pixabay-269077.jpg"
-        height="100"
-        width="100"
-        className=""
-        />
-      </div>
-      <div className=" translate-y-[650px] ml-[1400px] -translate-x-36 animate-spin fixed">
-        <Image
-        src="/images/pexels-expect-best-323776.jpg"
-        height="100"
-        width="100"
-        className=""
-        />
-      </div>
+          <div className="pt-36 translate-y-[500px] translate-x-36 animate-spin fixed">
+            <Image
+              src="/images/pexels-pixabay-269077.jpg"
+              height="100"
+              width="100"
+              className=""
+              alt=""
+            />
+          </div>
+          <div className=" translate-y-[650px] ml-[1400px] -translate-x-36 animate-spin fixed">
+            <Image
+              src="/images/pexels-expect-best-323776.jpg"
+              height="100"
+              width="100"
+              className=""
+              alt=""
+            />
+          </div>
         </div>
         <div className="h-fit py-5 justify-evenly lg:flex">
           <div>
@@ -41,7 +43,8 @@ export default function Home({ properties }) {
               src="/images/pexels-binyamin-mellish-106399.jpg"
               height="400px"
               width="700px"
-              className="rounded-2xl justify-center "
+              className="rounded-2xl justify-center"
+              alt=""
             />
           </div>
           <div className="ml-24 -mt-24 text-xl lg:translate-x-64 md:translate-x-1/2 lg:translate-y-80 md:translate-y-64">
@@ -81,11 +84,13 @@ export default function Home({ properties }) {
           </div>
         </div>
       </div>
-      
-     
+
       <div className="mt-64 bg-indigo-600 min-h-screen w-screen">
         <div>
-          <p id="services" className="pt-48 text-center text-3xl font-serif text-white">
+          <p
+            id="services"
+            className="pt-48 text-center text-3xl font-serif text-white"
+          >
             Our Services
           </p>
           <div>
@@ -96,33 +101,33 @@ export default function Home({ properties }) {
           </p>
           <p className="text-center pt-3 px-48 text-xl font-semibold z-10">
             Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book. It has survived not
-            only five centuries, but also the leap into electronic typesetting,
-            remaining essentially unchanged
+            industry. Lorem Ipsum has been the industry&#39;s standard dummy
+            text ever since the 1500s, when an unknown printer took a galley of
+            type and scrambled it to make a type specimen book. It has survived
+            not only five centuries, but also the leap into electronic
+            typesetting, remaining essentially unchanged lorem
           </p>
           <p className="pt-24 text-center text-3xl font-serif text-white">
             How are we solving it?
           </p>
           <p className="text-center pt-3 px-48 text-xl font-semibold">
             Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book. It has survived not
-            only five centuries, but also the leap into electronic typesetting,
-            remaining essentially unchanged
+            industry. Lorem Ipsum has been the industry&#39;s standard dummy
+            text ever since the 1500s, when an unknown printer took a galley of
+            type and scrambled it to make a type specimen book. It has survived
+            not only five centuries, but also the leap into electronic
+            typesetting, remaining essentially unchanged
           </p>
           <p className="pt-24 text-center text-3xl font-serif text-white">
-            What's Next?
+            What&#39;s Next?
           </p>
           <p className="text-center pt-3 px-48 text-xl font-semibold">
             Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book. It has survived not
-            only five centuries, but also the leap into electronic typesetting,
-            remaining essentially unchanged
+            industry. Lorem Ipsum has been the industry&#39;s standard dummy
+            text ever since the 1500s, when an unknown printer took a galley of
+            type and scrambled it to make a type specimen book. It has survived
+            not only five centuries, but also the leap into electronic
+            typesetting, remaining essentially unchanged
           </p>
           <p className="pt-24 text-center text-3xl font-serif text-white">
             Meet the Team

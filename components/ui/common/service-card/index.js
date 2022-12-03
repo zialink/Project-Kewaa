@@ -21,13 +21,13 @@ export const ServiceCard = () => {
           <p className="w-96 text-start pt-3 pb-3 text-white">
             {" "}
             Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled.......
+            industry. Lorem Ipsum has been the industry&#39;s standard dummy
+            text ever since the 1500s, when an unknown printer took a galley of
+            type and scrambled.......
           </p>
         </div>
       </div>
-      <div  className="border-4 bg-gray-800 rounded-lg border-gray-800 shadow-lg">
+      <div className="border-4 bg-gray-800 rounded-lg border-gray-800 shadow-lg">
         <div className="transition-all">
           <Image
             src="/images/house_puzzle2.jpeg"
@@ -43,9 +43,9 @@ export const ServiceCard = () => {
           </p>
           <p className="w-96 text-start pt-3 pb-3 text-white">
             Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled.......
+            industry. Lorem Ipsum has been the industry&#39;s standard dummy
+            text ever since the 1500s, when an unknown printer took a galley of
+            type and scrambled.......
           </p>
         </div>
       </div>
