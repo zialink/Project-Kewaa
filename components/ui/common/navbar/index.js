@@ -31,7 +31,7 @@ export default function Navbar() {
               </Link>
             </div>
             <div>
-              <Link href={"/"}>
+              <Link href={"/app"}>
                 <a className="mr-8 font-medium text-gray-500 hover:text-gray-900">
                   Wishlist
                 </a>
