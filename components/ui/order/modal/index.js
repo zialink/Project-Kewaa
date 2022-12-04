@@ -1,9 +1,7 @@
 import { Modal, Button } from "@components/ui/common";
 import { useEffect, useState } from "react";
 
-
-export default function OrderModal({ course, isOpen, setIsOpen }) {
-
+export default function OrderModal({ property, isOpen, setIsOpen }) {
   const closeModal = () => {
     setIsOpen(false);
   };
@@ -40,7 +38,7 @@ export default function OrderModal({ course, isOpen, setIsOpen }) {
               </div>
               <div className="ml-1 flex-col w-fit p-1 rounded-lg mt-5  bg-indigo-700  text-xs text-gray-700 mb-5">
                 <p className="text-xs text-white"> ROI/monthly</p>
-                <p className="text-lg text-white text-center ">0%</p> 
+                <p className="text-lg text-white text-center ">0%</p>
               </div>
               <div className="relative mt-2 rounded-md">
                 <div className="mb-1">

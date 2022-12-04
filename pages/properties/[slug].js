@@ -19,7 +19,7 @@ export default function Property({ property }) {
         />
       </div>
       <Keypoints points={property.wsl} />
-      <OrderModal course={property} isOpen={isOpen} setIsOpen={setIsOpen} />
+      <OrderModal property={property} isOpen={isOpen} setIsOpen={setIsOpen} />
     </>
   );
 }
