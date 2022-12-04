@@ -6,7 +6,7 @@ export const LandingNav = () => {
   const router = useRouter();
   return (
     <>
-      <div className="w-full flex justify-between pt-5 pb-5 px-16 fixed z-10 bg-indigo-700">
+      <div className="w-full flex justify-between pt-5 lg:pb-5 md:pb-5  h-fit  lg:px-16 md:10 px-5 lg:fixed md:fixed relative z-10 bg-indigo-700">
         <div>
           <div className="flex gap-2">
             <Image
@@ -19,9 +19,14 @@ export const LandingNav = () => {
             <h2 className="font-serif text-xl mt-2">Kewaa project</h2>
           </div>
         </div>
-        <div className="flex gap-6 text-md font-mono mt-3">
-          <a href="#services" className="hover:underline">Our Services</a>
-          <a href="#github" className=" hover:underline "> Documentation </a>
+        <div className="lg:flex md:flex sm:flex-none gap-6 text-md font-mono mt-3">
+          <a href="#services" className="hover:underline">
+            Our Services
+          </a>
+          <a href="#github" className=" hover:underline ">
+            {" "}
+            Documentation{" "}
+          </a>
         </div>
         <div>
           <button

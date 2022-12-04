@@ -5,11 +5,11 @@ description: >-
   in several rented real estate properties.
 ---
 
-# Description
+# Description and Overview
 
 
 
-<figure><img src=".gitbook/assets/photo_2022-12-02 17.01.37.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/photo_2022-12-02 17.01.37 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 ### Goals&#x20;
 
@@ -30,6 +30,26 @@ Commercial real estate constitutes a significant portion of world economic asset
 * Access to secondary market opportunities
 * Data accessibility to increase transparency and inform better investment decisions and portfolio management
 
-One of the most exciting ways Ethereum benefits the industry is through the digital securitization of real estate properties, also known as tokenization. Digital assets can represent real-world assets such as real estate, real estate funds, revenue streams, governance rights, and more. Once these assets are tokenized, they can be divided into more granular pieces, made accessible to a wider pool of investors, and leveraged to raise capital. Once tokenized, the programmable Ethereum blockchain enables the secure and compliant digitization of the transactions and processes around these assets, including issuance, trading, and lifecycle management.
+One of the most exciting ways polygon benefits the industry is through the digital securitization of real estate properties, also known as tokenization. Digital assets can represent real-world assets such as real estate, real estate funds, revenue streams, governance rights, and more. Once these assets are tokenized, they can be divided into more granular pieces, made accessible to a wider pool of investors, and leveraged to raise capital. Once tokenized, the programmable Ethereum blockchain enables the secure and compliant digitization of the transactions and processes around these assets, including issuance, trading, and lifecycle management.
 
 In the real estate market, the advice, knowledge, and know-how of real estate professionals will remain crucial to commercial buyers. However, the processing of securities, liability management, document processing, and accounting will inevitably change.
+
+
+
+## Tech stack
+
+​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FBLCVsBR02dpUSZaUdkAv%2Fuploads%2FrwLXcbL8bNE1MWyoJ58a%2FTech-Stack-Diagram3\(1\).png?alt=media\&token=76bd19c9-4a55-4551-8054-2e55f131eb4d)Write a caption​
+
+#### Frontend  <a href="#frontend" id="frontend"></a>
+
+The web UI was built with Reactand next.js and the smart contract was integrated using web3.js
+
+#### Blockchain <a href="#blockchain" id="blockchain"></a>
+
+The Kewaa smart contract was built with solidity using EIP 1633 - an implementation of EIP 721 and ERC 20.
+
+deployed on the polygon testnet (Mumbai)
+
+### Client
+
+Metamask was used as a wallet to sign and approve transactions.

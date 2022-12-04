@@ -1,5 +1,3 @@
-
-
 [
   {
     "id": "1410474",
@@ -8,6 +6,8 @@
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged",
     "coverImage": "/images/pexels-binyamin-mellish-106399.jpg",
     "slug": "7-bedroom-duplex-with-pent-house",
+    "price": "$2000000",
+    "shareHolders": "10",
     "wsl": [
       "7 Bedroom Duplex",
       "Very affordable price",
@@ -22,6 +22,8 @@
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged",
     "coverImage": "/images/pexels-expect-best-323780.jpg",
     "slug": "10-office-suites",
+    "price": "$2000000",
+    "shareHolders": "10",
     "wsl": [
       "10 Office Suites",
       "Very affordable price",
@@ -36,6 +38,8 @@
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged",
     "coverImage": "/images/pexels-pixabay-221047.jpg",
     "slug": "5000sqm-of-industrial-space",
+    "price": "$2000000",
+    "shareHolders": "10",
     "wsl": [
       "5000sqm of Industrial Space",
       "Very affordable price",
@@ -50,6 +54,8 @@
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
     "coverImage": "/images/pexels-tom-fisk-2789098.jpg",
     "slug": "10-hectares-of-land",
+    "price": "$2000000",
+    "shareHolders": "10",
     "wsl": [
       "10 Hectares of Land",
       "Very affordable price",
@@ -64,6 +70,8 @@
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
     "coverImage": "/images/pexels-pixabay-164558.jpg",
     "slug": "5-bedroom-villa-duplex",
+    "price": "$2000000",
+    "shareHolders": "10",
     "wsl": [
       "5 Bedroom Villa Duplex",
       "Very affordable price",
@@ -78,6 +86,8 @@
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
     "coverImage": "/images/pexels-alex-staudinger-1732414.jpg",
     "slug": "3-rooms-bungalow-with-lake-view",
+    "price": "$2000000",
+    "shareHolders": "10",
     "wsl": [
       "3 Bedroom Bungalow",
       "Lake View",
@@ -93,6 +103,8 @@
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
     "coverImage": "/images/pexels-pixabay-164250.jpg",
     "slug": "250-acres-of-land",
+    "price": "$2000000",
+    "shareHolders": "10",
     "wsl": [
       "250 Acres of Land",
       "Very affordable price",
@@ -107,6 +119,8 @@
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
     "coverImage": "/images/pexels-binyamin-mellish-1396122.jpg",
     "slug": "4-bedroom-bungalow-with-pent-house",
+    "price": "$2000000",
+    "shareHolders": "10",
     "wsl": [
       "4 Bedroom Bungalow",
       "Pent House",
@@ -122,6 +136,8 @@
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
     "coverImage": "/images/pexels-pixabay-236705.jpg",
     "slug": "5000sqm-of-industrial-space",
+    "price": "$2000000",
+    "shareHolders": "10",
     "wsl": [
       "5000sqm of Industrial Space",
       "Very affordable price",
@@ -136,6 +152,8 @@
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
     "coverImage": "/images/pexels-pixabay-273209.jpg",
     "slug": "1000-office-suites",
+    "price": "$2000000",
+    "shareHolders": "10",
     "wsl": [
       "1000 Office Suites",
       "Sky scrapper",
@@ -151,6 +169,8 @@
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged",
     "coverImage": "/images/pexels-pixabay-164522.jpg",
     "slug": "5-bedroom-villa-duplex",
+    "price": "$2000000",
+    "shareHolders": "10",
     "wsl": [
       "5 Bedroom Duplex",
       "Very affordable price",
@@ -165,6 +185,8 @@
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
     "coverImage": "/images/pexels-pixabay-269077.jpg",
     "slug": "7000sqm-of-industrial-warehouse",
+    "price": "$2000000",
+    "shareHolders": "10",
     "wsl": [
       "7000sqm of Industrial Warehouse",
       "Very affordable price",

@@ -1,9 +1,13 @@
+import { useState } from "react";
 import { Modal } from "@components/ui/common";
+import { OrderModal } from "@components/ui/order";
 import { PropertyHero, Keypoints } from "@components/ui/property";
 import { BaseLayout } from "@components/ui/layout";
 import { getAllProperties } from "@content/properties/fetcher";
 
 export default function Property({ property }) {
+  const [isOpen, setIsOpen] = useState(false);
+
   return (
     <>
       <div className="py-4">
@@ -11,10 +15,11 @@ export default function Property({ property }) {
           title={property.title}
           description={property.description}
           image={property.coverImage}
+          buttonClicked={() => setIsOpen(true)}
         />
       </div>
       <Keypoints points={property.wsl} />
-      <Modal />
+      <OrderModal course={property} isOpen={isOpen} setIsOpen={setIsOpen} />
     </>
   );
 }
