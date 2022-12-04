@@ -1,7 +1,9 @@
 import { Modal, Button } from "@components/ui/common";
 import { useEffect, useState } from "react";
 
+
 export default function OrderModal({ course, isOpen, setIsOpen }) {
+
   const closeModal = () => {
     setIsOpen(false);
   };
@@ -16,7 +18,7 @@ export default function OrderModal({ course, isOpen, setIsOpen }) {
                 className="mb-7 text-lg font-bold leading-6 text-gray-900"
                 id="modal-title"
               >
-                {course.title}
+                {property.title}
               </h3>
 
               <div className="relative mt-1 rounded-md">

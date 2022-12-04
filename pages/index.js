@@ -9,8 +9,10 @@ export default function Home() {
     <>
       <div className="bg-indigo-600 h-full">
         <LandingNav />
+
         <div className="w-full lg:h-16 md:h-16 h-32  bg-indigo-700 flex"></div>
         <div className="h-fit py-5 justify-evenly lg:flex md:flex-none  ">
+
           <div>
             <h1 className="lg:translate-y-56 lg:-translate-x-48 md:translate-y-[600px] md:translate-x-24 w-64 text-3xl font-mono">
               Own, invest in real Estate in a secure, fast and easy way{" "}
@@ -21,7 +23,8 @@ export default function Home() {
               src="/images/pexels-binyamin-mellish-106399.jpg"
               height="400px"
               width="700px"
-              className="rounded-2xl justify-center "
+              className="rounded-2xl justify-center"
+              alt=""
             />
           </div>
           <div className="ml-24 -mt-24 text-xl lg:translate-x-64 md:translate-x-1/2 lg:translate-y-80 md:translate-y-64 translate-y-64">
@@ -62,11 +65,13 @@ export default function Home() {
         </div>
       </div>
 
+
       <div className=" mt-64  bg-indigo-600 min-h-screen w-screen">
         <div>
           <p
             id="services"
             className="lg:pt-48 md:pt-48 pt-24 text-center text-3xl font-serif text-white"
+
           >
             Our Services
           </p>
@@ -76,6 +81,7 @@ export default function Home() {
           <p className="pt-24 text-center text-3xl font-serif text-white">
             What problem are we solving?
           </p>
+
           <p className=" text-center pt-3 lg:px-48 md:px-24 px-10 text-xl font-semibold z-10">
             Commercial real estate constitutes a significant portion of world
             economic asset and transaction activity. According to an MSCI
@@ -95,6 +101,7 @@ export default function Home() {
           <p className="pt-24 text-center text-3xl font-serif text-white">
             How are we solving it?
           </p>
+
           <p className="text-center pt-3 lg:px-48 md:px-24 px-10 text-xl font-semibold">
             A system that creates fractional ownership of rented real estate
             properties and having the investors earn dividend from the revenue
@@ -118,15 +125,15 @@ export default function Home() {
             inevitably change.
           </p>
           <p className="pt-24 text-center text-3xl font-serif text-white">
-            What's Next?
+            What&#39;s Next?
           </p>
           <p className="text-center pt-3 lg:px-48 md:px-24 px-10 text-xl font-semibold">
             Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book. It has survived not
-            only five centuries, but also the leap into electronic typesetting,
-            remaining essentially unchanged
+            industry. Lorem Ipsum has been the industry&#39;s standard dummy
+            text ever since the 1500s, when an unknown printer took a galley of
+            type and scrambled it to make a type specimen book. It has survived
+            not only five centuries, but also the leap into electronic
+            typesetting, remaining essentially unchanged
           </p>
           <p className="pt-24 text-center text-3xl font-serif text-white">
             Meet the Team
