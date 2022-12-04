@@ -3,8 +3,8 @@ import React from "react";
 
 export const ServiceCard = () => {
   return (
-    <div className="flex justify-center mt-10 gap-24">
-      <div className="border-4 bg-gray-800 rounded-lg border-gray-800 shadow-lg ">
+    <div className="lg:flex md:flex px-10 lg:px-0 md:px-0 justify-center mt-10 gap-24">
+      <div className="border-4 bg-gray-800 rounded-lg w-fit border-gray-800 shadow-lg ">
         <div className=" transition-all">
           <Image
             src="/images/pay-house.jpg"
@@ -27,7 +27,9 @@ export const ServiceCard = () => {
           </p>
         </div>
       </div>
-      <div className="border-4 bg-gray-800 rounded-lg border-gray-800 shadow-lg">
+
+      <div  className="border-4 bg-gray-800 w-fit mt-8 lg:mt-0 md:mt-0 rounded-lg border-gray-800 shadow-lg">
+
         <div className="transition-all">
           <Image
             src="/images/house_puzzle2.jpeg"
