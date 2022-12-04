@@ -11,8 +11,13 @@ export const TeamProfile = ({ image, name, skill }) => {
         width="200px"
         className="rounded-full border-2 hover:blur-none blur-sm hover:cursor-pointer border-black"
       />
-      <p className="text-center font-semibold">{name}</p>
-      <p className="text-center font-semibold"> {skill}</p>
+      <p className="text-center text-xs lg:text-md md:text-md font-semibold">
+        {name}
+      </p>
+      <p className="text-center text-xs lg:text-md md:text-md font-semibold">
+        {" "}
+        {skill}
+      </p>
     </div>
   );
 };
