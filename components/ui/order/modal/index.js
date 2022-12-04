@@ -1,18 +1,9 @@
 import { Modal, Button } from "@components/ui/common";
 import { useEffect, useState } from "react";
 
-export default function OrderModal({ course, onClose }) {
-  const [isOpen, setIsOpen] = useState(false);
-
-  useEffect(() => {
-    if (!!course) {
-      setIsOpen(true);
-    }
-  }, [course]);
-
+export default function OrderModal({ course, isOpen, setIsOpen }) {
   const closeModal = () => {
     setIsOpen(false);
-    onClose();
   };
 
   return (
@@ -27,17 +18,10 @@ export default function OrderModal({ course, onClose }) {
               >
                 {course.title}
               </h3>
+
               <div className="relative mt-1 rounded-md">
                 <div className="mb-1">
-                  <label className="mb-2 font-bold">Price(eth)</label>
-                  <div className="flex text-xs text-gray-700">
-                    <label className="mr-2 flex items-center">
-                      <input type="checkbox" className="form-checkbox" />
-                    </label>
-                    <span>
-                      Adjust Price - only when the price is not correct
-                    </span>
-                  </div>
+                  <label className="mb-2 font-bold">Amount(eth)</label>
                 </div>
                 <input
                   type="text"
@@ -45,11 +29,16 @@ export default function OrderModal({ course, onClose }) {
                   id="price"
                   className="mb-1 block w-80 rounded-md border-gray-300 p-4 pl-7 shadow-md focus:border-indigo-500 focus:ring-indigo-500 disabled:opacity-50 sm:text-sm"
                 />
+
                 <p className="text-xs text-gray-700">
                   Price will be verified at the time of the order. If the price
                   will be lower, order can be declined (+- 2% slipage is
                   allowed)
                 </p>
+              </div>
+              <div className="ml-1 flex-col w-fit p-1 rounded-lg mt-5  bg-indigo-700  text-xs text-gray-700 mb-5">
+                <p className="text-xs text-white"> ROI/monthly</p>
+                <p className="text-lg text-white text-center ">0%</p> 
               </div>
               <div className="relative mt-2 rounded-md">
                 <div className="mb-1">
@@ -68,18 +57,7 @@ export default function OrderModal({ course, onClose }) {
                   anywhere
                 </p>
               </div>
-              <div className="relative my-2 rounded-md">
-                <div className="mb-1">
-                  <label className="mb-2 font-bold">Repeat Email</label>
-                </div>
-                <input
-                  type="email"
-                  name="confirmationEmail"
-                  id="confirmationEmail"
-                  className="block w-80 rounded-md border-gray-300 p-4 pl-7 shadow-md focus:border-indigo-500 focus:ring-indigo-500 sm:text-sm"
-                  placeholder="x@y.com"
-                />
-              </div>
+
               <div className="flex text-xs text-gray-700">
                 <label className="mr-2 flex items-center">
                   <input type="checkbox" className="form-checkbox" />
